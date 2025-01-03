@@ -83,6 +83,6 @@ I'm a data engineer and software engineer passionate about automotive safety, da
 - Code Reviews, Team Management, Communication, Teamwork
 
 ## Connect
-- [Mail-tharanihari26@gmail.com](tharanihari26@gmail.com)
+- [Mail ID- tharanihari26@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/hariharan-gopinath-290a51169/)
 - [Portfolio](https://hariharandata.github.io/hariharan.github.io/)
