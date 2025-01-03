@@ -10,4 +10,4 @@ I'm a data engineer and software engineer passionate about automotive safety, da
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/hariharan-gopinath-290a51169/)
-- [Portfolio](https://hariharan.github.io)
+- [Portfolio]([https://hariharan.github.io](https://hariharandata.github.io/hariharan.github.io/))
