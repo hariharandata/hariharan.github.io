@@ -6,15 +6,16 @@ I'm a data engineer and software engineer passionate about automotive safety, da
 
 ### Data Engineer 
 **Volvo Cars, Sweden** (Consultant via Nexer AB until Dec 2023)
-📅 Sep 2022 – Present
-	- Built automated data pipelines for AD/ADAS systems using a combination of Apache Airflow, Jenkins, and REST APIs, ensuring scalable and modular architecture for continuous vehicle data ingestion.
-	- Architected message-driven workflows that listen for new data events, triggering pipeline execution dynamically via API calls and Jenkins jobs, improving response times and reducing manual involvement.
-	- Developed a secure, user-friendly Flask web application enabling manual triggering and monitoring of data pipelines with role-based access and built-in logging for auditability.
-	- Simulated sensor environments (Radar, Lidar, USS) by building SQL-driven pipelines that mimic real-world scenarios, facilitating effective testing of autonomous functionalities.
-	- Created visualization dashboards using Grafana and Matplotlib to monitor sensor performance, enabling quick diagnostics and faster debugging in simulation loops.
-	- Built a robust Python-based integration for a third-party quality API to automate tagging, metadata syncing, and error tracking — significantly improving data reliability.
-	- Automated vehicle signal decoding pipelines using Jenkins, making the process completely event-driven and hands-free, resulting in improved data freshness and reduced human error.
-	- Collaborated with cross-functional teams including data scientists, software developers, and cloud infrastructure teams using Agile methodologies (Scrum, Jira).
+
+*Sep 2022 – Present*
+- Built automated data pipelines for AD/ADAS systems using a combination of Apache Airflow, Jenkins, and REST APIs, ensuring scalable and modular architecture for continuous vehicle data ingestion.
+- Architected message-driven workflows that listen for new data events, triggering pipeline execution dynamically via API calls and Jenkins jobs, improving response times and reducing manual involvement.
+- Developed a secure, user-friendly Flask web application enabling manual triggering and monitoring of data pipelines with role-based access and built-in logging for auditability.
+- Simulated sensor environments (Radar, Lidar, USS) by building SQL-driven pipelines that mimic real-world scenarios, facilitating effective testing of autonomous functionalities.
+- Created visualization dashboards using Grafana and Matplotlib to monitor sensor performance, enabling quick diagnostics and faster debugging in simulation loops.
+- Built a robust Python-based integration for a third-party quality API to automate tagging, metadata syncing, and error tracking — significantly improving data reliability.
+- Automated vehicle signal decoding pipelines using Jenkins, making the process completely event-driven and hands-free, resulting in improved data freshness and reduced human error.
+- Collaborated with cross-functional teams including data scientists, software developers, and cloud infrastructure teams using Agile methodologies (Scrum, Jira).
 
 
 ---
