@@ -66,7 +66,7 @@ Contributed to enhancing debugging efficiency and automation in software validat
 ### 🏗️ Data Engineering
 - ETL and ELT Processes, Kafka, Apache Airflow for Workflow Orchestration
 
-### Big Data
+### 🧠 Big Data
 - Data Lifecycle Management, Data Warehousing
 
 ### 🤖 Machine Learning
