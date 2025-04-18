@@ -24,8 +24,12 @@ I'm a data engineer and software engineer passionate about automotive safety, da
 **Volvo Cars, Sweden**  
 *Jan 2022 – Jul 2022*  
 - Conducted research for my Master's thesis: **“Fault tracing bot in electric drive software using machine learning.”**  
-- Automated the detection of software integration issues and their root causes by leveraging ML and data science to analyze logs.  
-
+- Automated the detection of software integration issues and their root causes by leveraging ML and data science to analyze logs.
+- Developed a fault tracing bot using NLP to analyze and classify log data from electric drive systems.
+- Performed data cleaning, clustering, and feature extraction for unstructured logs to enable root cause identification.
+- Implemented multiple ML algorithms for classification tasks to predict software integration issues with minimal human
+intervention.
+Contributed to enhancing debugging efficiency and automation in software validation workflows.
 ---
 
 ### MATLAB Student Ambassador  
@@ -37,51 +41,69 @@ I'm a data engineer and software engineer passionate about automotive safety, da
 ---
 
 ### Summer Intern  
-**Volvo Cars, Sweden**  
+**REVERE, Sweden**  
 *Jun 2021 – Aug 2021*  
 - Worked on the project: **“Identify trajectories of objects through cameras”** by implementing various deep learning object detection models.  
 - Utilized tracking algorithms to detect and track objects in real-time.  
 
 ## 💻 Skills and Expertise
 
-### Programming Languages
+### 📚 Programming Languages
 - Python, C/C++, MATLAB/Simulink, JavaScript, Shell Scripting
 
-### Cloud Platforms
-- Azure Data Factory, Azure Synapse Analytics, Azure Cosmos DB, AWS
+### ☁ Cloud Platforms
+- Azure Data Factory, Azure Synapse Analytics, Azure Cosmos DB, GCP
 
-### Database Systems
+### 📂 Database Systems
 - Relational Databases, SQL, NoSQL
 
-### API Development
+### 🔌 API Development
 - RESTful APIs, Client Connections, Docker
 
-### Web Development
+### 🌐 Web Development
 - Flask, HTML, CSS
 
-### Data Engineering
+### 🏗️ Data Engineering
 - ETL and ELT Processes, Kafka, Apache Airflow for Workflow Orchestration
 
 ### Big Data
 - Data Lifecycle Management, Data Warehousing
 
-### Machine Learning
+### 🤖 Machine Learning
 - NLP, TensorFlow, NumPy, Pandas, OpenCV, PyTorch
 
-### CI/CD
+### 📊 CI/CD
 - Jenkins, Unit Testing, Code Quality Assurance
 
-### Data Visualization
+### 📊 Data Visualization
 - Tableau, Power BI, Matplotlib, Grafana
 
-### DevOps
+### 🚀 DevOps
 - Agile Methodologies, GitLab, Gerrit, Jenkins
 
-### Containerization & Orchestration
+### 📦 Containerization & Orchestration
 - Kubernetes, PBS, and Containerization Technologies
 
-### Leadership
-- Code Reviews, Team Management, Communication, Teamwork
+### 👥 Leadership
+- Code Reviews, Team Management, Communication, Teamwork, Scrum Master
+
+
+## Projects
+### AsyncTaskFlow - A scalable microservice for asynchronous task processing.
+[Link](https://github.com/hariharandata/message_queue)
+
+🔹 Description (TL;DR)
+- Developed a microservice-based task processing system using FastAPI and Celery.
+- Tasks are submitted via REST API and executed asynchronously by background workers.
+- RabbitMQ handles task queuing; PostgreSQL tracks metadata and task states.
+- Fully containerized with Docker for ease of deployment and scalability.
+
+🛠 Technologies Used
+- Backend: Python, FastAPI
+- Async Processing: Celery, RabbitMQ
+- Database: PostgreSQL
+- DevOps: Docker, Docker Compose
+- Architecture: Microservices
 
 ## Connect
 - Mail ID- tharanihari26@gmail.com
