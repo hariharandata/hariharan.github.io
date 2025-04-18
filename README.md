@@ -2,6 +2,8 @@
 Welcome to my GitHub portfolio! 
 I'm a data engineer and software engineer passionate about automotive safety, data engineering, data scientist, data analytics, and AI. I’m thrilled to present my growing data engineering portfolio! This repository features a curated collection of projects from various data analytics and engineering courses, as well as self-driven learning exercises. Each project highlights key skills and techniques essential to the field.
 
+My GitHub repository [link](https://github.com/hariharandata?tab=repositories)
+
 ## 💼 Professional Experience
 
 ### Data Engineer 
