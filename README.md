@@ -1,6 +1,6 @@
 # Hi, I'm Hariharan! 👋
 Welcome to my GitHub portfolio! 
-I'm a data engineer and software engineer passionate about automotive safety, data engineering, data scientist, data analytics, and AI. I’m thrilled to present my growing data engineering portfolio! This repository features a curated collection of projects from various data analytics and engineering courses, as well as self-driven learning exercises. Each project highlights key skills and techniques essential to the field.
+I'm a data engineer and software engineer passionate about automotive safety, data engineering, data science, data analytics, and AI. I’m thrilled to present my growing data engineering portfolio! This repository features a curated collection of projects from various data analytics and engineering courses, as well as self-driven learning exercises. Each project highlights key skills and techniques essential to the field.
 
 My GitHub repository [link](https://github.com/hariharandata?tab=repositories)
 
@@ -17,7 +17,7 @@ My GitHub repository [link](https://github.com/hariharandata?tab=repositories)
 - Created visualization dashboards using Grafana and Matplotlib to monitor sensor performance, enabling quick diagnostics and faster debugging in simulation loops.
 - Built a robust Python-based integration for a third-party quality API to automate tagging, metadata syncing, and error tracking — significantly improving data reliability.
 - Automated vehicle signal decoding pipelines using Jenkins, making the process completely event-driven and hands-free, resulting in improved data freshness and reduced human error.
-- Collaborated with cross-functional teams including data scientists, software developers, and cloud infrastructure teams using Agile methodologies (Scrum, Jira).
+- Collaborated with cross-functional teams, including data scientists, software developers, and cloud infrastructure teams using Agile methodologies (Scrum, Jira).
 
 
 ---
@@ -47,47 +47,40 @@ Contributed to enhancing debugging efficiency and automation in software validat
 *Jun 2021 – Aug 2021*  
 - Worked on the project: **“Identify trajectories of objects through cameras”** by implementing various deep learning object detection models.  
 - Utilized tracking algorithms to detect and track objects in real-time.  
+## 🛠 Technical Skills
 
-## 💻 Skills and Expertise
+### 🚀 Languages
+- Python, Scala
+- C++
+- MATLAB
+- JavaScript, Bash
+- Apache Spark
 
-### 📚 Programming Languages
-- Python, C/C++, MATLAB/Simulink, JavaScript, Shell Scripting
+### 🗃️ Data Engineering
+- ETL / ELT
+- Kafka, RabbitMQ
+- Apache Airflow
+- MySQL, PostgreSQL
+- MongoDB
 
-### ☁ Cloud Platforms
-- Azure Data Factory, Azure Synapse Analytics, Azure Cosmos DB, GCP
+### ☁️ Cloud & Infrastructure
+- Azure, Google Cloud Platform (GCP)
+- Docker, Kubernetes
+- Jenkins, PBS, Gerrit
+- OpenShift
 
-### 📂 Database Systems
-- Relational Databases, SQL, NoSQL
-
-### 🔌 API Development
-- RESTful APIs, Client Connections, Docker
-
-### 🌐 Web Development
-- Flask, HTML, CSS
-
-### 🏗️ Data Engineering
-- ETL and ELT Processes, Kafka, Apache Airflow for Workflow Orchestration
-
-### 🧠 Big Data
-- Data Lifecycle Management, Data Warehousing
-
-### 🤖 Machine Learning
-- NLP, TensorFlow, NumPy, Pandas, OpenCV, PyTorch
-
-### 📊 CI/CD
-- Jenkins, Unit Testing, Code Quality Assurance
-
-### 📊 Data Visualization
-- Tableau, Power BI, Matplotlib, Grafana
-
-### 🚀 DevOps
-- Agile Methodologies, GitLab, Gerrit, Jenkins
-
-### 📦 Containerization & Orchestration
-- Kubernetes, PBS, and Containerization Technologies
+### 🧰 Applications & Tools
+- Flask, FastAPI, HTML, CSS
+- Grafana, Elasticsearch
+- Unit Testing, Code Quality
+- Agile / Scrum
 
 ### 👥 Leadership
-- Code Reviews, Team Management, Communication, Teamwork, Scrum Master
+- Code Reviews
+- Team Management
+- Communication
+- Teamwork
+- Scrum Master
 
 
 ## Projects
@@ -110,4 +103,3 @@ Contributed to enhancing debugging efficiency and automation in software validat
 ## Connect
 - Mail ID- tharanihari26@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hariharan-gopinath-290a51169/)
-- [Portfolio](https://hariharandata.github.io/hariharan.github.io/)
